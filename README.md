@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your blogging app:
 
----
 
 # Blogging App
 
@@ -130,4 +128,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README provides a comprehensive overview of your app, installation instructions, and details about the tech stack used.
